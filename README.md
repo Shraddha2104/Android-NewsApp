@@ -6,7 +6,7 @@ Android App to display breaking news from Guardian and NYTimes
 
     
 <h2>HomePage displaying news and current weather</h2>
-<img src="1.png"  height="350" />
+<img src="1.png" width="200" height="350" />
 
 <h2>Detailed Version of news</h2>
 <img src="2.png" width="200" height="350" />
