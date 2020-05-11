@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.newsapp.DetailActivity">
+
+    <item
+        android:id="@+id/bookmark"
+        android:orderInCategory="3"
+        android:title="bookmarks"
+        android:icon="@drawable/ic_bookmark"
+        app:iconTint="@color/red"
+        android:onClick="set_bookmark"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bookmarked"
+        android:orderInCategory="3"
+        android:title="bookmarked"
+        android:icon="@drawable/ic_bookmarked"
+        app:iconTint="@color/red"
+        android:onClick="remove_bookmark"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="4"
+        android:title="share"
+        android:icon="@drawable/ic_twitter"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

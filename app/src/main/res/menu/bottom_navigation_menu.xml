@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home" />
+
+    <item android:id="@+id/navigation_headlines"
+        android:icon="@drawable/icon_news"
+        android:title="Headliness" />
+
+    <item android:id="@+id/navigation_trending"
+        android:icon="@drawable/ic_trending_up_24px"
+        android:title="Trending" />
+
+    <item android:id="@+id/navigation_bookmark"
+        android:icon="@drawable/ic_bookmarks"
+        android:title="Bookmarks" />
+
+<!--    <item android:id="@+id/navigation_camera"-->
+<!--        android:icon="@drawable/ic_camera_black_24dp"-->
+<!--        android:title="Camera" />-->
+
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_location_permission" />
+    <string name="text_location_permission" />
+    <string name="ok" />
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="enter_search_term">Enter Search Term</string>
+    <string name="coronavirus">Coronavirus</string>
+    <string name="search_term">Enter Search Term:</string>
+    <string name="home">Home</string>
+    <string name="fetching_news">Fetching News</string>
+    <string name="california">California</string>
+    <string name="no_bookmarked_articles">No Bookmarked Articles</string>
+    <string name="no_bookmarked_articles1">No bookmarked Articles</string>
+    <string name="search_hint">search hint</string>
+    <string name="coronavirus1">CoronaVirus</string>
+</resources>
