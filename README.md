@@ -1,9 +1,23 @@
 # Android-NewsApp
 Android App to display breaking news from Guardian and NYTimes 
 
+## Table of Contents
+1. [Synopsis](#Synopsis)
+2. [Installation Guide](#Installation-Guide)
+3. [Screenshots](#Screenshots)
+5. [Tech Stack of this Project](#Tech Stack of this Project)
+6. [Contributing to Android-NewsApp](#Contributing to Android-NewsApp)
 ## Synopsis
 
 This project was completed as a part of my coursework for the course CSCI 571: Web Technologies at the University of Southern California, Spring 2020 under Prof. Marco Papa.
+
+## Installation Guide
+The app can be installed and tested in 5 steps:
+1. Install [Android Studio](https://developer.android.com/studio) on your machine.
+2. Create an [Android Virtual Device (AVD)](https://developer.android.com/studio/run/managing-avds) in your Android Studio.
+3. Clone the Android-NewsApp repo to your local machine.
+4. Open the cloned local project in Android Studio.
+5. Run the app.
 
 ## Screenshots
 
