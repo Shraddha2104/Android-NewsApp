@@ -5,8 +5,8 @@ Android App to display breaking news from Guardian and NYTimes
 1. [Synopsis](#Synopsis)
 2. [Installation Guide](#Installation-Guide)
 3. [Screenshots](#Screenshots)
-5. [Tech Stack of this Project](#Tech Stack of this Project)
-6. [Contributing to Android-NewsApp](#Contributing to Android-NewsApp)
+5. [Tech Stack of this Project](#Tech-Stack-of-this-Project)
+6. [Contributing to Android-NewsApp](#Contributing-to-Android-NewsApp)
 ## Synopsis
 
 This project was completed as a part of my coursework for the course CSCI 571: Web Technologies at the University of Southern California, Spring 2020 under Prof. Marco Papa.
